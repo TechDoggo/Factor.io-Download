@@ -1,0 +1,29 @@
+@echo off
+
+echo Launching...
+timeout .5
+echo Launching..
+timeout .5
+echo Launching.
+timeout .5
+echo Launching..
+timeout .5
+echo Launching...
+timeout .5
+echo Launching..
+timeout .5
+echo Launching.
+timeout .5
+echo Launching..
+timeout .5
+echo Launching...
+timeout .5
+echo Launching..
+timeout .5
+echo Launching.
+timeout .5
+echo Launching..
+timeout .5
+echo Launching...
+timeout .5
+start /d "C:\Users\Alex\PycharmProjects\colonygame\home\" main.py
